@@ -2,7 +2,7 @@ EDITABLE LINKS / PUBLISHING NOTES
 
 Planned public repository name: Global-Superstore-Tableau-Story-Analytics
 
-GitHub repository URL after you create it:
+GitHub repository URL:
 https://github.com/Bunniey/Global-Superstore-Tableau-Story-Analytics
 
 Tableau Story (live now):
@@ -15,4 +15,4 @@ How to edit: Open Editable-Portfolio-Showcase.pptx in PowerPoint, right-click th
 
 The PDF's GitHub and Excel buttons point to the planned repository and will not resolve until you publish it under exactly that name.
 
-The Excel file is about 36 MB: use GitHub Desktop / Git instead of GitHub.com's 25 MB single-file browser upload. GitHub's per-file Git limit is 100 MB.
+The Excel file is about 36 MB.
